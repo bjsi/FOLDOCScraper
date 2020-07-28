@@ -8,32 +8,29 @@ import json
 baseurl = "https://foldoc.org"
 
 pages = [
-        "/contents/A.html",
-        "/contents/B.html",
-        "/contents/C.html",
-        "/contents/D.html",
-        "/contents/E.html",
-        "/contents/F.html",
-        "/contents/G.html",
-        "/contents/H.html",
-        "/contents/I.html",
-        "/contents/J.html",
-        "/contents/K.html",
-        "/contents/L.html",
-        "/contents/M.html",
-        "/contents/N.html",
-        "/contents/O.html",
-        "/contents/P.html",
-        "/contents/Q.html",
-        "/contents/R.html",
-        "/contents/S.html",
-        "/contents/T.html",
-        "/contents/U.html",
-        "/contents/V.html",
-        "/contents/W.html",
-        "/contents/X.html",
-        "/contents/Y.html",
-        "/contents/Z.html"
+
+            "/contents/language.html",
+            "/contents/algorithm.html",
+            "/contents/complexity.html",
+            "/contents/cryptography.html",
+            "/contents/database.html",
+            "/contents/functional-programming.html",
+            "/contents/architecture.html",
+            "/contents/theory.html",
+            "/contents/programming.html",
+            "/contents/object-oriented.html",
+            "/contents/parallel.html",
+            "/contents/memory.html",
+            "/contents/artificial-intelligence.html",
+            "/contents/compiler.html",
+            "/contents/computability.html",
+            "/contents/information-science.html",
+            "/contents/mathematics.html",
+            "/contents/memory-management.html",
+            "/contents/processor.html",
+            "/contents/person.html",
+            "/contents/logic.html"
+
         ]
 
 
